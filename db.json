@@ -1,0 +1,103 @@
+{
+    "addUpdateActivity": [{
+            "id": 1,
+            "title": "activity 1",
+            "oneLiner": "short description",
+            "city": "london"
+        },
+        {
+            "title": "M.A.P",
+            "oneLiner": "dmn,n",
+            "city": "Price",
+            "id": 2
+        },
+        {
+            "title": "activity2",
+            "oneLiner": "mn,",
+            "city": "Mumbai",
+            "id": 3
+        },
+        {
+            "title": "CP - Breakfast Included",
+            "oneLiner": "dmn,n",
+            "city": "Mumbai",
+            "id": 4
+        },
+        {
+            "title": "CP - Breakfast Included",
+            "oneLiner": "dmn,n",
+            "city": "Mumbai",
+            "id": 5
+        },
+        {
+            "title": "CP - Breakfast Included",
+            "oneLiner": "dmn,n",
+            "city": "Mumbai",
+            "id": 6
+        },
+        {
+            "title": "New Activity",
+            "oneLiner": "dmn,n",
+            "city": "Mumbai",
+            "id": 7
+        },
+        {
+            "title": "New Activity",
+            "oneLiner": "dmn,n",
+            "city": "Mumbai",
+            "id": 8
+        },
+        {
+            "title": "12",
+            "oneLiner": "1",
+            "city": "mukm",
+            "id": 9
+        },
+        {
+            "title": "12",
+            "oneLiner": "1",
+            "city": "mukm",
+            "id": 10
+        }
+    ],
+
+    "selectPlan": [{
+            "id": 1,
+            "image": "assets/images/icon-arcade.svg",
+            "planName": "Acarde",
+            "price": 9
+        }, {
+            "id": 2,
+            "image": "assets/images/icon-advanced.svg",
+            "planName": "Advanced",
+            "price": 12
+        },
+        {
+            "id": 3,
+            "image": "assets/images/icon-pro.svg",
+            "planName": "Pro",
+            "price": 15
+        }
+    ],
+    "addOn": [{
+            "id": 1,
+            "description": "Access to multiplayer games",
+            "planName": "Online Service",
+            "price": 9
+        }, {
+            "id": 2,
+            "description": "Extra 1Tb of cloud service",
+            "planName": "Larger Storage",
+            "price": 12
+        },
+        {
+            "id": 3,
+            "description": "Custom theme on your profile",
+            "planName": "Customizable",
+            "price": 15
+        }
+    ]
+
+
+
+}
